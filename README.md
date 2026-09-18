@@ -1,2 +1,6 @@
-# stupeny
-Static site of Rehabilitation Center Stupeny (Odessa), no WordPress
+# Ступені / Ступени
+
+Публічний статичний сайт реабілітаційного центру без WordPress.
+Блок співробітників не включено.
+
+Pages: UA в корені, RU в `/ru/`.
