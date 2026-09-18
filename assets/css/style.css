@@ -3,7 +3,7 @@
 .topbar{background:var(--blue);color:#fff;font-size:13px}.topbar a{color:#fff}.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:8px;height:36px}
 .lang{display:inline-flex;border-radius:4px;overflow:hidden;background:rgba(255,255,255,.16)}.lang a{padding:3px 8px;color:#fff}.lang a.on{background:#ffd400;color:#111;font-weight:800}
 .header{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:30}.header .wrap{display:grid;grid-template-columns:auto 1fr auto auto;align-items:center;gap:8px;height:56px}
-.logo{display:flex;align-items:center;gap:8px;color:#0b4a86;font-weight:800;min-width:0}.mark-logo{width:36px;height:36px;flex:0 0 36px;background:#0b57c5 url("../img/logo.svg?v=6") center/contain no-repeat;border-radius:4px}.logo b{font-size:18px;white-space:nowrap}
+.logo{display:flex;align-items:center;gap:8px;color:#0b4a86;font-weight:800;min-width:0}.logo img{width:36px;height:36px;flex:0 0 36px;object-fit:contain;display:block}.logo b{font-size:18px;white-space:nowrap}
 .nav{display:flex;gap:16px;justify-content:flex-end;flex-wrap:nowrap}.nav a{color:var(--ink);white-space:nowrap}.nav a.on{color:var(--blue)}
 .btn{display:inline-flex;align-items:center;justify-content:center;background:var(--blue);color:#fff!important;border:0;border-radius:4px;padding:8px 12px;font-weight:700;white-space:nowrap}.btn-ghost{background:transparent;color:#fff!important;border:1px solid #fff}
 .menu{display:none;background:0;border:0;font-size:24px;width:36px;height:36px}
